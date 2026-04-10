@@ -1,0 +1,10 @@
+# Core ML
+torch==2.5.1
+sentence-transformers==5.4.0
+faiss-cpu==1.13.2
+
+# Vector DB
+chromadb==1.5.7
+
+# LLM / RAG
+groq==1.1.2
